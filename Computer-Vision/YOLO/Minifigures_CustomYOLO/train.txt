@@ -1,0 +1,12 @@
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000000.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000001.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000002.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000003.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000004.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000005.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000006.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000007.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000008.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000010.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000011.jpg
+C:\Users\s9wiljoh\Desktop\ai-dataanalys-abbwiljoh\Computer-Vision\YOLO\Minifigures_CustomYOLO/Images\minifigures/00000012.jpg

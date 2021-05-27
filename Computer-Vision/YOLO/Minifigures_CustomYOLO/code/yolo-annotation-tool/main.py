@@ -1,11 +1,11 @@
-#-------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 # Name:        Object bounding box label tool
 # Purpose:     Label object bboxes for ImageNet Detection data
 # Author:      Qiushi
 # Created:     06/06/2014
 
 #
-#-------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 from __future__ import division
 from PIL import Image as PImage, ImageTk
 import os
@@ -214,14 +214,16 @@ class LabelTool():
                     "Error!", message="The folder should be numbers")
                 return
         if not os.path.isdir('%s' % self.category):
-           tkMessageBox.showerror(
-               "Error!", message="The specified dir doesn't exist!")
-           return
+            tkMessageBox.showerror(
+                "Error!", message="The specified dir doesn't exist!")
+            return
         # get image list
-        self.imageDir = os.path.join(r'./Images', '%s' % (self.category))
+        self.imageDir = os.path.join(r'.\\Images', '%s' % (self.category))
         self.imageList = glob.glob(os.path.join(self.imageDir, '*.jpg'))
         if len(self.imageList) == 0:
             print('No .jpg images found in the specified dir!')
+            print(self.imageList)
+            print(self.imageDir)
             tkMessageBox.showerror(
                 "Error!", message="No .jpg images found in the specified dir!")
             return
