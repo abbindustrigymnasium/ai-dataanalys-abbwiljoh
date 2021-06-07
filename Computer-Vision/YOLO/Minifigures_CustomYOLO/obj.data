@@ -1,5 +1,5 @@
 classes = 1
-train = train.txt
-valid = test.txt
-names = obj.names
-backup = backup/
+train = /content/MinifiguresCustomYOLO/train.txt
+valid = /content/MinifiguresCustomYOLO/test.txt
+names = /content/MinifiguresCustomYOLO/obj.names
+backup = /content/drive/MyDrive/CustomYOLO/Minifigures
